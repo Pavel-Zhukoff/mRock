@@ -18,6 +18,7 @@ import partner10 from "../../assets/partners/partner-10.png";
 import partner11 from "../../assets/partners/partner-11.png";
 import partner12 from "../../assets/partners/partner-12.png";
 import partner13 from "../../assets/partners/partner-13.svg";
+import partner14 from "../../assets/partners/partner-14.svg";
 
 const Partners = () => {
    return (
@@ -140,6 +141,12 @@ const Partners = () => {
                   target="_blank"
                   className="partners__partner">
                   <img src={partner13} alt="TimeOut" />
+               </a>
+               <a
+                  href="https://www.afisha.ru/"
+                  target="_blank"
+                  className="partners__partner">
+                  <img src={partner14} alt="Афиша" />
                </a>
             </div>
          </Container>
