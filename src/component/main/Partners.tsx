@@ -143,7 +143,7 @@ const Partners = () => {
                   <img src={partner13} alt="TimeOut" />
                </a>
                <a
-                  href="https://www.afisha.ru/"
+                  href="https://www.afisha.ru/concert/megarok-shou-1000-muzykantov-2261203/"
                   target="_blank"
                   className="partners__partner">
                   <img src={partner14} alt="Афиша" />
