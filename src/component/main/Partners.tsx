@@ -148,12 +148,6 @@ const Partners = () => {
                   className="partners__partner">
                   <img src={partner14} alt="Афиша" />
                </a>
-               <a
-                  href="https://www.timeout.ru/msk"
-                  target="_blank"
-                  className="partners__partner">
-                  <img src={partner13} alt="TimeOut" />
-               </a>
             </div>
          </Container>
 
