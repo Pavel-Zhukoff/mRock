@@ -1,4 +1,3 @@
-import React from "react";
 import { Box, Typography } from "@mui/material";
 import BlackBackground from "../utils/BlackBackground";
 import ideaItem2 from "../assets/items/item7.svg";

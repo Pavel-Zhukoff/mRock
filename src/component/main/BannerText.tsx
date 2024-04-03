@@ -1,4 +1,3 @@
-import React from "react";
 import greenZiro from "../../assets/items/greenZiro.svg";
 import pinkZiro from "../../assets/items/pinkZiro.svg";
 import { Box, Typography } from "@mui/material";
