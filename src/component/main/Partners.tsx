@@ -19,6 +19,7 @@ import partner11 from "../../assets/partners/partner-11.png";
 import partner12 from "../../assets/partners/partner-12.png";
 import partner13 from "../../assets/partners/partner-13.svg";
 import partner14 from "../../assets/partners/partner-14.svg";
+import partner15 from "../../assets/partners/partner-15.png";
 
 const Partners = () => {
    return (
@@ -147,6 +148,12 @@ const Partners = () => {
                   target="_blank"
                   className="partners__partner">
                   <img src={partner14} alt="Афиша" />
+               </a>
+               <a
+                  href="https://musicboxtv.ru/"
+                  target="_blank"
+                  className="partners__partner">
+                  <img src={partner15} alt="Music Box Russia" />
                </a>
             </div>
          </Container>
