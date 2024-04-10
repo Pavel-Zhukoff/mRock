@@ -11,7 +11,6 @@ import slider1 from "../assets/slides/slide1.png";
 import slider2 from "../assets/slides/slide2.png";
 import slider3 from "../assets/slides/slide3.png";
 import slider4 from "../assets/slides/slide4.png";
-import slider5 from "../assets/slides/slide5.jpeg";
 import {
    aboutSwitch,
    musiciansSwitch,
@@ -43,11 +42,6 @@ const MySwiper = ({
          avatar: slider1,
          name: "Светлана Шабаева-Маркина",
          role: "продюсер",
-      },
-      {
-         avatar: slider5,
-         name: "Кирюхин Виктор",
-         role: "Менеджер по работе с партнерами",
       },
    ],
    sx,
